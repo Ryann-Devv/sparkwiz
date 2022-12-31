@@ -18,7 +18,7 @@ description="A build by ryann.pw for personal use for help send me a message or 
 
 name="2"
 version="1.1"
-url="https://www.dropbox.com/s/bt4kfy7ml0kjqfg/ArticZRSport.zip?dl=1"
+url="https://www.dropbox.com/s/hlzottxz6p09tea/azrrrrtl.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/b6zafker1aaqxe5/NewMediaCentre_guisettings.zip?dl=1"
 kodi="19.0"
