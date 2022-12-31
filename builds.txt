@@ -17,7 +17,7 @@ info="url.to.info"
 description="A build by ryann.pw for personal use for help send me a message or email me at ryan@ryann.pw."
 
 name="2"
-version="1.1"
+version="1.2"
 url="https://www.dropbox.com/s/hlzottxz6p09tea/azrrrrtl.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/b6zafker1aaqxe5/NewMediaCentre_guisettings.zip?dl=1"
