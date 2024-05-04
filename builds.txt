@@ -3,7 +3,7 @@ version=""
 zip=""
 
 name="2024 Xbox 1"
-version="1.5"
+version="1.51"
 url="https://www.dropbox.com/scl/fi/r1akb9imdhpzhryb0075b/Xbox-2024.zip?rlkey=gfhu2ufm0ll6ec29ec07y2ye7&st=v1xujjn3&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/leif2zb9tec2n8dzbpmqx/2024-001_guisettings.zip?rlkey=jz25e4ns16wm48zl6dpwzaics&st=3ux5lgja&dl=1"
