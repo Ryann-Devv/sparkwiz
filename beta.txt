@@ -1,1 +1,17 @@
-1
+id=""
+version=""
+zip=""
+
+name="2024 Xbox 1"
+version="1.65"
+url="https://www.dropbox.com/scl/fi/m0v5nstgmrbuu8xqzd7q2/Spark-IPTV.zip?rlkey=qm3kq2nefpanop8pmuanyi0ab&st=5rz3gxwe&dl=1"
+minor="http://"
+gui="https://www.dropbox.com/scl/fi/ke6jqcwhvpriiocsacini/BloatRemoved-2024_guisettings.zip?rlkey=3tzhbk5o44lur5w3ohj9kaoj9&st=kaduziwz&dl=1"
+kodi="19.0"
+theme="url.to.themes"
+icon="http://"
+fanart="http://"
+preview="https://www.youtube.com/watch?v=djV11Xbc914"
+adult="no"
+info="url.to.info"
+description="A build by ryanndevv.xyz for personal use for help send me a message or email me at ryan@ryanndevv.xyz."
